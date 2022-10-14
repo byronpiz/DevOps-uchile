@@ -1,4 +1,4 @@
-venv
+venv/
 *.xls
 *.class
 *.jar
